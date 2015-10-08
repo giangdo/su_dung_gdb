@@ -1,0 +1,3 @@
+* tracepoint khác với break point và watch point, tại tracepoint chương trình ko bị dừng. Tại đó, gdb chỉ giúp ta thu thập những dữ liệu mà mình cần khi một đoạn code nào đó được thực thi.
+* tracepoint hiện tại chỉ được hỗ trợ khi sử dụng với gdbserver, do đó khi muốn thực hiện tracepoint trên chính nơi mà chương trình đang chạy ta không thể dùng gdb một cách trực tiếp mà dùng thông qua gdbserver trên local host.
+
