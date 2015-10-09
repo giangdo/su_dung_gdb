@@ -117,4 +117,5 @@ Tại đó, gdb chỉ giúp ta thu thập những dữ liệu mà mình cần kh
 		Khi có nhiều tracepoint, ta cũng có thể xem số lần tracepoint trải qua bằng (gdb) info thread
 
 	Bước 7: Dettach chương trình, để chương trình tiếp tục chạy bình thường
+		
 			(gdb) detach
